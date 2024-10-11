@@ -1,0 +1,14 @@
+C:\Users\VICTUS\Desktop\Web Develop\W-1\HomeTaskLINQ2\bin\Debug\net8.0\HomeTaskLINQ2.exe
+C:\Users\VICTUS\Desktop\Web Develop\W-1\HomeTaskLINQ2\bin\Debug\net8.0\HomeTaskLINQ2.deps.json
+C:\Users\VICTUS\Desktop\Web Develop\W-1\HomeTaskLINQ2\bin\Debug\net8.0\HomeTaskLINQ2.runtimeconfig.json
+C:\Users\VICTUS\Desktop\Web Develop\W-1\HomeTaskLINQ2\bin\Debug\net8.0\HomeTaskLINQ2.dll
+C:\Users\VICTUS\Desktop\Web Develop\W-1\HomeTaskLINQ2\bin\Debug\net8.0\HomeTaskLINQ2.pdb
+C:\Users\VICTUS\Desktop\Web Develop\W-1\HomeTaskLINQ2\obj\Debug\net8.0\HomeTaskLINQ2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VICTUS\Desktop\Web Develop\W-1\HomeTaskLINQ2\obj\Debug\net8.0\HomeTaskLINQ2.AssemblyInfoInputs.cache
+C:\Users\VICTUS\Desktop\Web Develop\W-1\HomeTaskLINQ2\obj\Debug\net8.0\HomeTaskLINQ2.AssemblyInfo.cs
+C:\Users\VICTUS\Desktop\Web Develop\W-1\HomeTaskLINQ2\obj\Debug\net8.0\HomeTaskLINQ2.csproj.CoreCompileInputs.cache
+C:\Users\VICTUS\Desktop\Web Develop\W-1\HomeTaskLINQ2\obj\Debug\net8.0\HomeTaskLINQ2.dll
+C:\Users\VICTUS\Desktop\Web Develop\W-1\HomeTaskLINQ2\obj\Debug\net8.0\refint\HomeTaskLINQ2.dll
+C:\Users\VICTUS\Desktop\Web Develop\W-1\HomeTaskLINQ2\obj\Debug\net8.0\HomeTaskLINQ2.pdb
+C:\Users\VICTUS\Desktop\Web Develop\W-1\HomeTaskLINQ2\obj\Debug\net8.0\HomeTaskLINQ2.genruntimeconfig.cache
+C:\Users\VICTUS\Desktop\Web Develop\W-1\HomeTaskLINQ2\obj\Debug\net8.0\ref\HomeTaskLINQ2.dll
